@@ -5,3 +5,5 @@
 /gmall-oms/.mvn/
 /gmall-ums/.mvn/
 /gmall-admin-web/.mvn/
+/gmall-api/gmall-api.iml
+/gmall-common/gmall-common.iml
